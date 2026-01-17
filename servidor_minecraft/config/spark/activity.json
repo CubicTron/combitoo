@@ -5,6 +5,19 @@
       "name": "CubicTron",
       "uniqueId": "e041418f-4a99-3311-991d-d7ab20e4b236"
     },
+    "time": 1768630466786,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/gUFmQvYE7S"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CubicTron",
+      "uniqueId": "e041418f-4a99-3311-991d-d7ab20e4b236"
+    },
     "time": 1768451319572,
     "type": "Profiler (live)",
     "data": {
