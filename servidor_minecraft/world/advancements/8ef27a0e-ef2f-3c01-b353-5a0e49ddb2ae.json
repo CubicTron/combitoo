@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:grant_patchouli": {
-    "criteria": {
-      "tick": "2026-01-11 23:32:43 +0000"
-    },
-    "done": true
-  },
   "terramity:terramity_parent_advancement": {
     "criteria": {
       "terramity_parent_advancement_0": "2026-01-11 23:32:43 +0000"
@@ -391,12 +385,6 @@
     },
     "done": true
   },
-  "tetra:recipes/string": {
-    "criteria": {
-      "got_string": "2026-01-11 23:38:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2026-01-11 23:38:32 +0000"
@@ -586,12 +574,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
-    "criteria": {
-      "has_item": "2026-01-11 23:42:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2026-01-11 23:42:19 +0000"
@@ -601,12 +583,6 @@
   "caverns_and_chasms:recipes/tools/bundle": {
     "criteria": {
       "has_leather": "2026-01-11 23:42:19 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
-    "criteria": {
-      "has_item": "2026-01-11 23:42:19 +0000"
     },
     "done": true
   },
@@ -628,21 +604,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
-    "criteria": {
-      "has_item": "2026-01-11 23:42:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2026-01-11 23:42:19 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
-    "criteria": {
-      "has_item": "2026-01-11 23:42:19 +0000"
     },
     "done": true
   },
@@ -653,12 +617,6 @@
     "done": true
   },
   "iceandfire:recipes/misc/blindfold": {
-    "criteria": {
-      "has_item": "2026-01-11 23:42:19 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
     "criteria": {
       "has_item": "2026-01-11 23:42:19 +0000"
     },
@@ -829,12 +787,6 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2026-01-11 23:52:35 +0000"
-    },
-    "done": true
-  },
-  "tetra:recipes/planks": {
-    "criteria": {
-      "got_wood": "2026-01-11 23:52:35 +0000"
     },
     "done": true
   },
@@ -2855,12 +2807,6 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2026-01-12 01:41:33 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
-    "criteria": {
-      "has_item": "2026-01-12 01:41:33 +0000"
     },
     "done": true
   },
@@ -6004,12 +5950,6 @@
     },
     "done": true
   },
-  "tetra:spelunking/root": {
-    "criteria": {
-      "spelunking": "2026-01-14 01:01:12 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:adventure/dont_move": {
     "criteria": {
       "spotted_by_peeper": "2026-01-14 01:02:26 +0000"
@@ -6121,12 +6061,6 @@
   "caverns_and_chasms:recipes/building_blocks/cobbled_deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2026-01-16 21:02:34 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/geode": {
-    "criteria": {
-      "get_geode": "2026-01-16 21:03:41 +0000"
     },
     "done": true
   },
@@ -6550,21 +6484,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
-    "criteria": {
-      "has_item": "2026-01-16 23:19:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2026-01-16 23:19:27 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
-    "criteria": {
-      "has_item": "2026-01-16 23:19:27 +0000"
     },
     "done": true
   },
@@ -7331,7 +7253,67 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2026-01-17 02:57:43 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2026-01-17 03:21:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2026-01-17 03:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2026-01-17 03:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-01-17 03:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2026-01-17 03:37:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2026-01-17 04:04:19 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
+    "criteria": {
+      "has_item": "2026-01-17 04:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-01-17 04:07:34 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2026-01-17 04:07:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
     "criteria": {
       "has_item": "2026-01-17 04:07:34 +0000"
     },
@@ -7361,33 +7343,81 @@
     },
     "done": true
   },
-  "netherexp:recipes/ivy/weeping_ivy": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "has_item": "2026-01-17 04:04:19 +0000"
+      "has_diamond": "2026-01-17 04:19:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2026-01-17 03:36:02 +0000"
+      "has_diamond": "2026-01-17 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2026-01-17 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2026-01-17 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2026-01-17 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2026-01-17 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-01-17 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2026-01-17 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2026-01-17 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2026-01-17 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2026-01-17 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2026-01-17 04:19:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2026-01-17 04:19:14 +0000"
-    },
-    "done": true
-  },
-  "terramity:lucky_cherries_advancement": {
-    "criteria": {
-      "lucky_cherries_advancement_0": "2026-01-17 04:24:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2026-01-17 04:19:07 +0000"
     },
     "done": true
   },
@@ -7415,30 +7445,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2026-01-17 04:19:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2026-01-17 04:19:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:sentry_armor_trim_smithing_template_smithing_trim": "2026-01-17 03:37:11 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/socket": {
-    "criteria": {
-      "socket": "2026-01-17 03:25:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2026-01-17 04:19:14 +0000"
@@ -7448,12 +7454,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-17 04:19:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2026-01-17 04:19:07 +0000"
     },
     "done": true
   },
@@ -7469,69 +7469,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
-    "criteria": {
-      "has_item": "2026-01-17 04:19:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2026-01-17 04:19:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2026-01-17 04:19:07 +0000"
-    },
-    "done": true
-  },
-  "terramity:most_gamblers_quit_advancement": {
-    "criteria": {
-      "most_gamblers_quit_advancement_0": "2026-01-17 04:24:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2026-01-17 04:07:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2026-01-17 04:19:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-17 04:19:14 +0000"
-    },
-    "done": true
-  },
-  "shieldexp:recipes/diamond_shield": {
-    "criteria": {
-      "has_diamond": "2026-01-17 04:19:07 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_magma_block": {
-    "criteria": {
-      "has_item": "2026-01-17 04:07:34 +0000"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "1": "2026-01-17 02:57:43 +0000"
-    },
-    "done": false
-  },
-  "spelunkery:recipes/diamond": {
-    "criteria": {
-      "has_item": "2026-01-17 04:19:07 +0000"
     },
     "done": true
   },
@@ -7547,12 +7487,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2026-01-17 04:19:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-17 04:19:14 +0000"
@@ -7562,24 +7496,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2026-01-17 04:19:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2026-01-17 03:36:02 +0000"
-    },
-    "done": true
-  },
-  "terramity:when_life_gives_you_lemons": {
-    "criteria": {
-      "when_life_gives_you_lemons_0": "2026-01-17 04:24:57 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2026-01-17 03:21:31 +0000"
     },
     "done": true
   },
@@ -7601,21 +7517,69 @@
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
-    "criteria": {
-      "has_item": "2026-01-17 04:07:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2026-01-17 04:19:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-17 04:19:14 +0000"
+    },
+    "done": true
+  },
+  "terramity:lucky_cherries_advancement": {
+    "criteria": {
+      "lucky_cherries_advancement_0": "2026-01-17 04:24:04 +0000"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2026-01-17 04:24:38 +0000"
+    },
+    "done": true
+  },
+  "terramity:when_life_gives_you_lemons": {
+    "criteria": {
+      "when_life_gives_you_lemons_0": "2026-01-17 04:24:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-18 04:33:07 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-01-18 04:33:07 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_root": {
+    "criteria": {
+      "iter_root_0": "2026-01-18 04:33:07 +0000"
+    },
+    "done": true
+  },
+  "create_new_age:recipes/misc/shaped/redstone_magnet": {
+    "criteria": {
+      "criterion": "2026-01-18 04:33:07 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/magnetic_compass": {
+    "criteria": {
+      "item": "2026-01-18 04:34:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2026-01-18 04:33:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-01-18 04:33:07 +0000"
     },
     "done": true
   },
