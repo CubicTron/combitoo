@@ -1,8 +1,8 @@
-[02:46:53] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[02:46:53] [INIT] Loaded plugins:
-[02:46:53] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[02:46:56] [INFO] Loaded script server_scripts:nether_diamond_loot.js in 0.001 s
-[02:46:56] [INFO] Loaded 1/1 KubeJS server scripts in 0.019 s with 0 errors and 0 warnings
-[02:46:56] [INFO] Scripts loaded
-[02:46:58] [INFO] [minecraft:block] Found 1125 tags, added 4 objects, removed 0 objects
-[02:47:28] [INFO] Server resource reload complete!
+[03:20:38] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[03:20:38] [INIT] Loaded plugins:
+[03:20:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[03:20:39] [INFO] Loaded script server_scripts:nether_diamond_loot.js in 0.001 s
+[03:20:39] [INFO] Loaded 1/1 KubeJS server scripts in 0.018 s with 0 errors and 0 warnings
+[03:20:39] [INFO] Scripts loaded
+[03:20:42] [INFO] [minecraft:block] Found 1125 tags, added 4 objects, removed 0 objects
+[03:21:12] [INFO] Server resource reload complete!

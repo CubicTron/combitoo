@@ -295,6 +295,9 @@
 				[gamerules.modded.player.artifacts.kittySlippers]
 					enabled = true
 
+			[gamerules.modded.player.accessories]
+				keepAccessoryInventory = false
+
 #Configs related to difficulty changes
 [difficulty]
 	#If the difficulty should be set on world load
