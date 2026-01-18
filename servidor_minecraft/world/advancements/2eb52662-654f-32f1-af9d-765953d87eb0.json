@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:grant_patchouli": {
-    "criteria": {
-      "tick": "2026-01-11 21:00:38 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2026-01-11 21:00:38 +0000"
@@ -719,12 +713,6 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2026-01-11 23:52:09 +0000"
-    },
-    "done": true
-  },
-  "tetra:recipes/planks": {
-    "criteria": {
-      "got_wood": "2026-01-11 23:52:09 +0000"
     },
     "done": true
   },
@@ -1742,12 +1730,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
-    "criteria": {
-      "has_item": "2026-01-12 00:41:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2026-01-12 00:41:32 +0000"
@@ -1757,12 +1739,6 @@
   "caverns_and_chasms:recipes/tools/bundle": {
     "criteria": {
       "has_leather": "2026-01-12 00:41:32 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
-    "criteria": {
-      "has_item": "2026-01-12 00:41:32 +0000"
     },
     "done": true
   },
@@ -1784,21 +1760,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
-    "criteria": {
-      "has_item": "2026-01-12 00:41:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2026-01-12 00:41:32 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
-    "criteria": {
-      "has_item": "2026-01-12 00:41:32 +0000"
     },
     "done": true
   },
@@ -1809,12 +1773,6 @@
     "done": true
   },
   "iceandfire:recipes/misc/blindfold": {
-    "criteria": {
-      "has_item": "2026-01-12 00:41:32 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
     "criteria": {
       "has_item": "2026-01-12 00:41:32 +0000"
     },
@@ -1856,12 +1814,6 @@
       "locate_vanilla_mineshaft_mesa": "2026-01-12 00:44:13 +0000"
     },
     "done": false
-  },
-  "tetra:recipes/string": {
-    "criteria": {
-      "got_string": "2026-01-12 00:44:16 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
@@ -3691,12 +3643,6 @@
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2026-01-12 01:59:28 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/root": {
-    "criteria": {
-      "spelunking": "2026-01-12 01:59:39 +0000"
     },
     "done": true
   },
@@ -5920,12 +5866,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
-    "criteria": {
-      "has_item": "2026-01-12 05:11:48 +0000"
-    },
-    "done": true
-  },
   "spelunkery:recipes/flint": {
     "criteria": {
       "has_item": "2026-01-12 05:11:48 +0000"
@@ -7008,21 +6948,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
-    "criteria": {
-      "has_item": "2026-01-12 20:40:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2026-01-12 20:40:24 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
-    "criteria": {
-      "has_item": "2026-01-12 20:40:24 +0000"
     },
     "done": true
   },
@@ -7623,12 +7551,6 @@
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2026-01-13 02:36:09 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/geode": {
-    "criteria": {
-      "get_geode": "2026-01-13 02:50:05 +0000"
     },
     "done": true
   },
@@ -10179,12 +10101,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
-    "criteria": {
-      "has_item": "2026-01-17 19:06:07 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/misc/common/materials/netherite_nugget_from_ingot": {
     "criteria": {
       "has_item": "2026-01-17 18:15:16 +0000"
@@ -10194,12 +10110,6 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-01-17 18:15:16 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/find_scroll_warforge": {
-    "criteria": {
-      "find": "2026-01-17 19:06:48 +0000"
     },
     "done": true
   },
@@ -10227,29 +10137,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2026-01-17 19:06:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-01-17 18:15:16 +0000"
     },
     "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2026-01-17 19:06:03 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:world/ancient_tools": {
-    "criteria": {
-      "battlesign": "2026-01-17 19:06:59 +0000"
-    },
-    "done": false
   },
   "supplementaries:recipes/safe": {
     "criteria": {
@@ -10260,12 +10152,6 @@
   "minecraft:recipes/tools/netherite_paxel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-01-17 18:15:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2026-01-17 19:06:07 +0000"
     },
     "done": true
   },
@@ -10299,12 +10185,6 @@
     },
     "done": true
   },
-  "tetra:spelunking/find_scroll": {
-    "criteria": {
-      "find": "2026-01-17 19:06:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2026-01-17 18:15:16 +0000"
@@ -10314,18 +10194,6 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-01-17 18:15:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2026-01-17 19:06:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2026-01-17 19:05:21 +0000"
     },
     "done": true
   },
@@ -10341,15 +10209,93 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/combat/netherite_horse_armor_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-17 18:15:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-01-17 19:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2026-01-17 19:06:03 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
+    "criteria": {
+      "has_item": "2026-01-17 19:06:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-01-17 19:06:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
     "criteria": {
       "has_item": "2026-01-17 19:06:07 +0000"
     },
     "done": true
   },
-  "caverns_and_chasms:recipes/combat/netherite_horse_armor_smithing": {
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
-      "has_netherite_ingot": "2026-01-17 18:15:16 +0000"
+      "has_snout_armor_trim_smithing_template": "2026-01-17 19:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-01-17 19:06:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "battlesign": "2026-01-17 19:06:59 +0000"
+    },
+    "done": false
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-01-18 04:11:07 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_root": {
+    "criteria": {
+      "iter_root_0": "2026-01-18 04:11:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-18 04:11:07 +0000"
+    },
+    "done": true
+  },
+  "man_of_many_planes:misc/expanded_aircraftery": {
+    "criteria": {
+      "has_item": "2026-01-18 04:11:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-18 04:11:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-01-18 04:11:07 +0000"
     },
     "done": true
   },
