@@ -9732,5 +9732,23 @@
     },
     "done": true
   },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-01-18 02:47:54 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_fluid_pipe": {
+    "criteria": {
+      "has_item": "2026-01-18 02:47:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-01-18 02:47:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
