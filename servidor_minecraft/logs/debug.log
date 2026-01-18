@@ -60765,3 +60765,187 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [18Jan2026 02:31:40.477] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
 [18Jan2026 02:31:40.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jan2026 02:31:40.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2026 02:35:17.209] [Thread-20/INFO] [gg.playit.playitfabric.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.23:20378, peerAddr=186.117.183.9:60577, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 110, -109, -71, -35, 23, 79, -102, -70, 117, -73, 9, -20, -95, -57, 81, 114, -67, -85, 8, 105, 108, 70, -27, 0, 0, 0, 0, 0, 7, 26, 43, 0, 0, 0, 0, 0, 85, 94, -77, 0, 0, 0, 0, 0, 47, 59, 2, -106, -106, -85, 8, 0, 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 40, 39, 0, -5, 5, 32, 109, 97, 116, 116, 101, 114, 45, 115, 97, 121, 115, 46, 103, 108, 46, 106, 111, 105, 110, 109, 99, 46, 108, 105, 110, 107, 0, 70, 77, 76, 51, 0, 99, -35, 1, 9, 100, 64, -26, 14, -118, 115, 101, -33, 36, 78, 122, -87, -56, -120, 8], tunnelServerId=1, dataCenterId=45}
+[18Jan2026 02:35:17.209] [Thread-20/INFO] [gg.playit.playitfabric.PlayitManager/]: starting tcp tunnel for client
+[18Jan2026 02:35:17.209] [Thread-20/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: start connection to /209.25.142.2:43784 to claim client
+[18Jan2026 02:35:17.431] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[18Jan2026 02:35:17.434] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: claim token sent
+[18Jan2026 02:35:17.654] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: connection to tunnel server has been established
+[18Jan2026 02:35:17.656] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[18Jan2026 02:35:17.656] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[18Jan2026 02:35:17.656] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[18Jan2026 02:35:17.658] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: connected to local minecraft server
+[18Jan2026 02:35:21.187] [Thread-20/INFO] [gg.playit.playitfabric.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.23:20378, peerAddr=186.117.183.9:60579, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 109, -109, -71, -35, 23, 79, -102, -70, 117, -73, 9, -20, -93, 71, 121, -60, -109, -85, 8, 105, 108, 70, -23, 0, 0, 0, 0, 0, 7, 26, 43, 0, 0, 0, 0, 0, 85, 94, -77, 0, 0, 0, 0, 0, 47, 59, 2, 79, 109, -85, 8, 0, 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 39, 38, 0, -5, 5, 31, 109, 97, 116, 116, 101, 114, 45, 115, 97, 121, 115, 46, 103, 108, 46, 97, 116, 46, 112, 108, 121, 46, 103, 103, 46, 0, 70, 77, 76, 51, 0, 79, -102, 2, -90, -111, 28, 102, -128, -23, -100, -104, 5, 4, -104, -19, -17, 48, -121, 72], tunnelServerId=1, dataCenterId=45}
+[18Jan2026 02:35:21.195] [Thread-20/INFO] [gg.playit.playitfabric.PlayitManager/]: starting tcp tunnel for client
+[18Jan2026 02:35:21.196] [Thread-20/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: start connection to /209.25.142.2:43784 to claim client
+[18Jan2026 02:35:21.418] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[18Jan2026 02:35:21.418] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: claim token sent
+[18Jan2026 02:35:21.639] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: connection to tunnel server has been established
+[18Jan2026 02:35:21.640] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[18Jan2026 02:35:21.641] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[18Jan2026 02:35:21.641] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[18Jan2026 02:35:21.642] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitfabric.PlayitTcpTunnel/]: connected to local minecraft server
+[18Jan2026 02:35:21.693] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 40 messages to dispatch.
+[18Jan2026 02:35:21.957] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[18Jan2026 02:35:22.007] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[18Jan2026 02:35:22.057] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[18Jan2026 02:35:22.107] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[18Jan2026 02:35:22.157] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[18Jan2026 02:35:22.207] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[18Jan2026 02:35:22.257] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 6
+[18Jan2026 02:35:22.307] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 7
+[18Jan2026 02:35:22.357] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 8
+[18Jan2026 02:35:22.407] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 9
+[18Jan2026 02:35:22.457] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 10
+[18Jan2026 02:35:22.507] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[18Jan2026 02:35:22.557] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[18Jan2026 02:35:22.588] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.589] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.589] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.589] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.589] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.589] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.589] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.589] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.590] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.590] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.590] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.590] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.590] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitfabric.PlayitTcpTunnel/]: failed to send data to tunnel
+[18Jan2026 02:35:22.607] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cf6a955[id=<null>,name=CubicTron,properties={},legacy=false] (/[::1]:51148) lost connection: Disconnected
+[18Jan2026 02:35:29.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Jan2026 02:35:29.556] [Server thread/INFO] [scguns/]: Emergency cleanup called for temporary lights in dimension: minecraft:overworld
+[18Jan2026 02:35:29.556] [Server thread/INFO] [scguns/]: Emergency cleanup called for temporary lights in dimension: irons_spellbooks:pocket_dimension
+[18Jan2026 02:35:29.557] [Server thread/INFO] [scguns/]: Emergency cleanup called for temporary lights in dimension: minecraft:the_end
+[18Jan2026 02:35:29.557] [Server thread/INFO] [scguns/]: Emergency cleanup called for temporary lights in dimension: minecraft:the_nether
+[18Jan2026 02:35:29.557] [Server thread/INFO] [scguns/]: Emergency cleanup called for temporary lights in dimension: the_bumblezone:the_bumblezone
+[18Jan2026 02:35:29.566] [Server thread/DEBUG] [platform/]: Found existing server config directory directory : ./world/serverconfig
+[18Jan2026 02:35:29.566] [Server thread/DEBUG] [com.blackgear.platform.core.util.config.ConfigTracker/]: Unloading configs type SERVER
+[18Jan2026 02:35:29.567] [Server thread/DEBUG] [platform/]: Found existing server config directory directory : ./world/serverconfig
+[18Jan2026 02:35:29.567] [Server thread/DEBUG] [com.blackgear.platform.core.util.config.ConfigTracker/]: Unloading configs type SERVER
+[18Jan2026 02:35:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jan2026 02:35:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jan2026 02:35:29.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jan2026 02:35:29.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jan2026 02:35:31.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[18Jan2026 02:35:31.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jan2026 02:35:31.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jan2026 02:35:31.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:spawn_condition_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_fluid_storage_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:transformer_serializer
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chicken_variant
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/block_hit_action
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:item_attribute_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[18Jan2026 02:35:31.287] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:mounted_item_storage_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/entity_hit_action
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cow_variant
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:potato_projectile/render_mode
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_source
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:display_target
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:arm_interaction_point_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: crafttweaker:condition_serializer
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:wolf_sound_variant
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:wolf_variant
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:fan_processing_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pig_variant
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: create:contraption_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[18Jan2026 02:35:31.288] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[18Jan2026 02:35:31.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2026 02:35:31.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2026 02:35:31.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jan2026 02:35:31.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[18Jan2026 02:35:31.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jan2026 02:35:31.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jan2026 02:35:31.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[18Jan2026 02:35:31.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jan2026 02:35:31.417] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[18Jan2026 02:35:31.417] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[18Jan2026 02:35:31.432] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for irons_spellbooks:pocket_dimension_type
+[18Jan2026 02:35:31.432] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for irons_spellbooks:pocket_dimension_type
+[18Jan2026 02:35:31.432] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[18Jan2026 02:35:31.432] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[18Jan2026 02:35:31.433] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[18Jan2026 02:35:31.433] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[18Jan2026 02:35:31.433] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for the_bumblezone:the_bumblezone
+[18Jan2026 02:35:31.433] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for the_bumblezone:the_bumblezone
+[18Jan2026 02:35:31.434] [Server thread/INFO] [gg.playit.playitfabric.PlayitFabric/]: stopping playit
+[18Jan2026 02:35:31.435] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[18Jan2026 02:35:31.436] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Jan2026 02:35:31.437] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[18Jan2026 02:35:31.539] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[18Jan2026 02:35:31.539] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[18Jan2026 02:35:33.663] [Thread-20/INFO] [gg.playit.playitfabric.PlayitManager/]: control channel shutdown
