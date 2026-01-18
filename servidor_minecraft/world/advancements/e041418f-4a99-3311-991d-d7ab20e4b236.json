@@ -35,12 +35,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:grant_patchouli": {
-    "criteria": {
-      "tick": "2026-01-10 19:51:42 +0000"
-    },
-    "done": true
-  },
   "terramity:terramity_parent_advancement": {
     "criteria": {
       "terramity_parent_advancement_0": "2026-01-10 19:51:42 +0000"
@@ -614,12 +608,6 @@
     },
     "done": true
   },
-  "tetra:recipes/string": {
-    "criteria": {
-      "got_string": "2026-01-11 23:38:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2026-01-11 23:38:25 +0000"
@@ -773,12 +761,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_boots": {
-    "criteria": {
-      "has_item": "2026-01-11 23:42:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2026-01-11 23:42:44 +0000"
@@ -788,12 +770,6 @@
   "caverns_and_chasms:recipes/tools/bundle": {
     "criteria": {
       "has_leather": "2026-01-11 23:42:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_chestplate": {
-    "criteria": {
-      "has_item": "2026-01-11 23:42:44 +0000"
     },
     "done": true
   },
@@ -815,21 +791,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/tools/armor/travelers_pants": {
-    "criteria": {
-      "has_item": "2026-01-11 23:42:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2026-01-11 23:42:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_goggles": {
-    "criteria": {
-      "has_item": "2026-01-11 23:42:44 +0000"
     },
     "done": true
   },
@@ -840,12 +804,6 @@
     "done": true
   },
   "iceandfire:recipes/misc/blindfold": {
-    "criteria": {
-      "has_item": "2026-01-11 23:42:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/tools/armor/travelers_shield": {
     "criteria": {
       "has_item": "2026-01-11 23:42:44 +0000"
     },
@@ -956,12 +914,6 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2026-01-11 23:53:58 +0000"
-    },
-    "done": true
-  },
-  "tetra:recipes/planks": {
-    "criteria": {
-      "got_wood": "2026-01-11 23:53:58 +0000"
     },
     "done": true
   },
@@ -2380,12 +2332,6 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2026-01-12 01:41:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
-    "criteria": {
-      "has_item": "2026-01-12 01:41:34 +0000"
     },
     "done": true
   },
@@ -5441,12 +5387,6 @@
     },
     "done": true
   },
-  "tetra:spelunking/root": {
-    "criteria": {
-      "spelunking": "2026-01-12 20:17:11 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:adventure/dont_move": {
     "criteria": {
       "spotted_by_peeper": "2026-01-12 20:17:13 +0000"
@@ -8316,12 +8256,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/gadgets/shuriken/quartz_shuriken": {
-    "criteria": {
-      "has_item": "2026-01-16 06:11:14 +0000"
-    },
-    "done": true
-  },
   "legendary_additions:recipes/decorations/quartz_lamp_light_blue": {
     "criteria": {
       "has_quartz": "2026-01-16 06:11:14 +0000"
@@ -8334,21 +8268,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
-    "criteria": {
-      "has_item": "2026-01-16 06:11:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2026-01-16 06:11:16 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/tools/gadgets/throwball/glow_ball": {
-    "criteria": {
-      "has_item": "2026-01-16 06:11:16 +0000"
     },
     "done": true
   },
@@ -8619,12 +8541,6 @@
   "regions_unexplored:recipes/decorations/red_maple_shrub": {
     "criteria": {
       "has_red_maple_sapling": "2026-01-16 21:33:40 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/geode": {
-    "criteria": {
-      "get_geode": "2026-01-16 23:43:18 +0000"
     },
     "done": true
   },
@@ -9105,18 +9021,6 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2026-01-17 01:34:13 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/find_scroll_warforge": {
-    "criteria": {
-      "find": "2026-01-17 01:34:32 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/find_scroll": {
-    "criteria": {
-      "find": "2026-01-17 01:34:32 +0000"
     },
     "done": true
   },
@@ -9636,6 +9540,12 @@
     },
     "done": true
   },
+  "scguns:main/cowboy/callwell": {
+    "criteria": {
+      "callwell": "2026-01-17 18:50:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2026-01-17 19:08:50 +0000"
@@ -9762,12 +9672,6 @@
     },
     "done": true
   },
-  "scguns:main/cowboy/callwell": {
-    "criteria": {
-      "callwell": "2026-01-17 18:50:36 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2026-01-17 19:08:50 +0000"
@@ -9819,6 +9723,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2026-01-17 19:08:50 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_root": {
+    "criteria": {
+      "iter_root_0": "2026-01-18 00:22:56 +0000"
     },
     "done": true
   },

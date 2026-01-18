@@ -21,3 +21,5 @@
 -XX:MaxGCPauseMillis=200
 -XX:+UnlockDiagnosticVMOptions
 -XX:G1SummarizeRSetStatsPeriod=1
+--add-modules ALL-SYSTEM
+--add-opens java.base/java.lang.module=ALL-UNNAMED

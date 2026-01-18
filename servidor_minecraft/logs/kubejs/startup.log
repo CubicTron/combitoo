@@ -1,6 +1,6 @@
-[16:01:38] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[16:01:38] [INIT] Loaded plugins:
-[16:01:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:01:39] [INFO] Loaded script startup_scripts:nether_diamond.js in 0.104 s
-[16:01:39] [INFO] Loaded script startup_scripts:waystone_hardness.js in 0.005 s
-[16:01:39] [INFO] Loaded 2/2 KubeJS startup scripts in 0.688 s with 0 errors and 0 warnings
+[02:25:48] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[02:25:48] [INIT] Loaded plugins:
+[02:25:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[02:25:49] [INFO] Loaded script startup_scripts:nether_diamond.js in 0.129 s
+[02:25:49] [INFO] Loaded script startup_scripts:waystone_hardness.js in 0.001 s
+[02:25:49] [INFO] Loaded 2/2 KubeJS startup scripts in 0.67 s with 0 errors and 0 warnings
